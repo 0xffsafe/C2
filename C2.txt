@@ -1,11 +1,13 @@
-Commercial tools:
+Commercial C2:
 Cobalt Strike	- https://www.cobaltstrike.com/
 Brute Ratel C4 - https://bruteratel.com/
 Nighthawk -	https://www.mdsec.co.uk/nighthawk/
-Outflank Security Tooling (OST)	- https://outflank.nl/services/outflank-security-tooling/
 Metasploit - https://www.metasploit.com/
+Outflank Security Tooling (OST)	- https://outflank.nl/services/outflank-security-tooling/
 
-Open-source tools:
+Open-source C2:
+Supershell - https://github.com/tdragon6/Supershell
+noterce - https://github.com/xiao-zhu-zhu/noterce
 Posh C2 - https://github.com/nettitude/PoshC2
 Empire - https://github.com/BC-SECURITY/Empire
 Sliver - https://github.com/BishopFox/sliver
