@@ -1,0 +1,31 @@
+Commercial tools:
+Cobalt Strike	- https://www.cobaltstrike.com/
+Brute Ratel C4 - https://bruteratel.com/
+Nighthawk -	https://www.mdsec.co.uk/nighthawk/
+Outflank Security Tooling (OST)	- https://outflank.nl/services/outflank-security-tooling/
+Metasploit - https://www.metasploit.com/
+
+Open-source tools:
+Posh C2 - https://github.com/nettitude/PoshC2
+Empire - https://github.com/BC-SECURITY/Empire
+Sliver - https://github.com/BishopFox/sliver
+Havoc C2 - https://github.com/HavocFramework/Havoc
+Koadic C3 - https://github.com/zerosum0x0/koadic
+Merlin - https://github.com/Ne0nd0g/merlin
+Covenant - https://github.com/cobbr/Covenant
+Revenant - https://github.com/0xTriboulet/Revenant
+Trevor - https://github.com/trustedsec/trevorc2
+Shad0w - https://github.com/bats3c/shad0w
+Mythic - https://github.com/its-a-feature/Mythic
+Manjusaka - https://github.com/YDHCUI/manjusaka
+DeimosC2 - https://github.com/DeimosC2/DeimosC2
+backvenom - https://github.com/blueudp/backvenom
+Venom - https://github.com/J0LGER/Venom
+AtlasC2 - https://github.com/Gr1mmie/AtlasC2
+BiFrost - https://github.com/AshleyNikr/Bifrost
+Heroinn - https://github.com/b23r0/Heroinn
+Antium - https://github.com/dobin/antnium
+Nimbo-C2 - https://github.com/itaymigdal/Nimbo-C2
+ThunderStorm - https://github.com/iDigitalFlame/ThunderStorm
+SilentTrinity - https://github.com/byt3bl33d3r/SILENTTRINITY
+VirusTotalC2 - https://github.com/RATandC2/VirusTotalC2
